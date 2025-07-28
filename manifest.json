@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "https://github.com/nikitaberg28",
+        "name": "Scorehud by berg",
+        "uuid": "cb5169b6-c157-a558-3836-9013641d4368",
+        "version": [0, 0, 9],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "https://github.com/nikitaberg28",
+            "type": "resources",
+            "uuid": "94b9c8a0-9c20-32a9-b970-b0b48c402519",
+            "version": [0, 0, 9]
+        }
+    ]
+}
