@@ -1,4 +1,4 @@
-# ScoreHudRP - Ресур-пак на скорборд для всех Bedrock серверов!
+# ScoreHudRP - Ресурс-пак на скорборд для всех Bedrock серверов!
 
 [![Bedrock](https://img.shields.io/badge/Bedrock-Repository-00B4FF.svg)](https://github.com/NetherGamesMC/PocketMine-MP)
 
