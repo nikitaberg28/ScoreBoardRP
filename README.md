@@ -1,6 +1,6 @@
 # ScoreHudRP - Ресурс-пак на скорборд для всех Bedrock серверов!
 
-[![Bedrock](https://img.shields.io/badge/Bedrock-Repository-00B4FF.svg)](https://github.com/NetherGamesMC/PocketMine-MP)
+[![Bedrock](https://img.shields.io/badge/Bedrock-Core-00B4FF.svg)](https://github.com/topics/minecraft-bedrock-edition)
 
 Этот ресурс-пак перемещает ваш скорборд в правый верхний угол экрана и добавляет синюю обводку. Пример ниже:  
 <img src="score.png" width="1500">  
